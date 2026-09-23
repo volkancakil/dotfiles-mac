@@ -3,7 +3,7 @@ theme = light:Gruvbox Light Hard,dark:Gruvbox Dark Hard
 
 command = "/opt/homebrew/bin/fish -c 'tmux attach || tmux'"
 
-font-family = "TX-02"
+font-family = "Berkeley Mono"
 font-size = 14
 
 mouse-hide-while-typing = true

@@ -38,7 +38,7 @@
   "editor.autoIndent": "full",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
-  "editor.fontFamily": "TX-02",
+  "editor.fontFamily": "Berkeley Mono",
   "editor.fontSize": 14,
   "terminal.integrated.profiles.osx": {
     "fish": {
@@ -85,9 +85,13 @@
   "cursor.general.glassShowWarningNotifications": true,
   "cursor.general.fontSmoothingAntialiased": true,
   "update.mode": "silentlyApplyOnQuit",
-  "update.releaseTrackOverride": "candidate",
   "cursor.general.reduceTransparency": true,
   "cursor.composer.conversationDensity": "detailed",
-  "extensions.installCooldownHours": 72,
-  "cursor.composer.codeBlockWordWrap": true
+  "extensions.installCooldownHours": 168,
+  "cursor.composer.codeBlockWordWrap": true,
+  "cursor.composer.suggestNextPrompt": true,
+  "cursor.composer.queueMessageDefaultBehavior": "steer",
+  "cursor.composer.showEmptyStateTips": false,
+  "editor.accessibilitySupport": "on",
+  "update.releaseTrackOverride": "dogfood"
 }
